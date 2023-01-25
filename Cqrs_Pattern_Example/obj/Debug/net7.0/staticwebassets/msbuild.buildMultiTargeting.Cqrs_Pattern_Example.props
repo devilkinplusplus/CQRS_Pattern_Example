@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cqrs_Pattern_Example.props" />
+</Project>
